@@ -1,6 +1,6 @@
 ﻿namespace Fibonacci
 {
-    class Program
+    class Fibonacci
     {
         static void Main(string[] args)
         {
