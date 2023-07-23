@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertToUtcTime", "Convert
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonString", "JsonString\JsonString.csproj", "{A3C31874-C423-4632-872F-84B4B038FA89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysManipulations", "ArraysManipulations\ArraysManipulations.csproj", "{7910122B-20D2-4204-BBB4-636F345551B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysManipulations", "ArraysManipulations\ArraysManipulations.csproj", "{7910122B-20D2-4204-BBB4-636F345551B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HangmanGame", "HangmanGame\HangmanGame.csproj", "{4D47B6B9-9445-4230-A509-9320503693DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{7910122B-20D2-4204-BBB4-636F345551B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7910122B-20D2-4204-BBB4-636F345551B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7910122B-20D2-4204-BBB4-636F345551B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D47B6B9-9445-4230-A509-9320503693DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D47B6B9-9445-4230-A509-9320503693DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D47B6B9-9445-4230-A509-9320503693DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D47B6B9-9445-4230-A509-9320503693DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
