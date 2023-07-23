@@ -76,23 +76,3 @@
         }
     }
 }
-
-/*
-if (!acertou)
-{
-    tentativas++;
-    Console.WriteLine("Letra não encontrada. Tentativas restantes: " + (maxTentativas - tentativas));
-}
-
-if (string.Join("", letrasEncontradas) == palavra)
-{
-    Console.WriteLine("Parabéns, você acertou a palavra!");
-    break;
-}
-
-if (tentativas == maxTentativas)
-{
-    Console.WriteLine("Você perdeu! A palavra era: " + palavra);
-    break;
-}
-*/
